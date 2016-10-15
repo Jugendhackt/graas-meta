@@ -7,3 +7,6 @@
 [submodule "backend"]
 	path = backend
 	url = git@github.com:Jugendhackt/graas-backend.git
+[submodule "client"]
+	path = client
+	url = git@github.com:Jugendhackt/graas-client.git
