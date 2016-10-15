@@ -1,0 +1,9 @@
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:Jugendhackt/graas-frontend.git
+[submodule "firmware"]
+	path = firmware
+	url = git@github.com:Jugendhackt/graas-firmware.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:Jugendhackt/graas-backend.git
